@@ -7,6 +7,7 @@ U can also choose from what categories it will choose games.
 
 All instructions inside app
 
+
 РУ
 
 Это приложение выбирает случайную игру из вашей библиотеки стим, учитывая семейную группу
